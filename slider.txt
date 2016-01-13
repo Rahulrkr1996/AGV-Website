@@ -1,0 +1,88 @@
+<!-- section start --> 
+		<section class="default-bg secPadding">
+			
+<div class="container">
+  <div class="row">
+    <div class='col-md-offset-2 col-md-8 text-center'>
+    <h2>Founders</h2>
+    </div>
+  </div>
+  <div class='row'>
+    <div class='col-md-offset-2 col-md-8'>
+      <div class="carousel slide" data-ride="carousel" id="quote-carousel">
+        <!-- Bottom Carousel Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+          <li data-target="#quote-carousel" data-slide-to="1"></li>
+          <li data-target="#quote-carousel" data-slide-to="2"></li>
+		  <li data-target="#quote-carousel" data-slide-to="3"></li>		  
+        </ol>
+        
+        <!-- Carousel Slides / Quotes -->
+        <div class="carousel-inner">
+        
+          <!-- Quote 1 -->
+          <div class="item active">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-3 text-center">
+                  <img class="img-circle" src="images/Founders/dibs.jpg" style="width: 200px;height:120px;">
+                </div>
+                <div class="col-sm-9">
+                  <p>Dibyendu Ghosh</p>
+                  <small></small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+          <!-- Quote 2 -->
+          <div class="item">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-3 text-center">
+                  <img class="img-circle" src="images/Founders/nalin.jpg" style="width: 200px;height:120px;">
+                </div>
+                <div class="col-sm-9">
+                  <p>Nalin Gupta</p>
+                  <small></small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+          <!-- Quote 3 -->
+          <div class="item">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-3 text-center">
+                  <img class="img-circle" src="images/Founders/srinivas.jpg" style="width: 200px;height:120px;">
+                </div>
+                <div class="col-sm-9">
+                  <p>Srinivas Reddy</p>
+                  <small></small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+		  
+		  <!-- Quote 4 -->
+          <div class="item active">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-3 text-center">
+                  <img class="img-circle" src="images/Founders/jit.jpg" style="width: 200px;height:120px;">
+                </div>
+                <div class="col-sm-9">
+                  <p>Jit Ray Chaudhary</p>
+                  <small></small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+		  
+        </div>              
+      </div>                          
+    </div>
+  </div>
+</div>
+		</section>
+		<!-- section end -->
